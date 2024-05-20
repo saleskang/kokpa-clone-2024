@@ -11,7 +11,7 @@
 }
 
 .icon-row__icon i {
-    font-size: 35px;
+    font-size: 40px;
 }
 
 .icon-row__icon span{
@@ -20,6 +20,5 @@
 
 .icon-row__icon-2ndrow{
     display: flex;  
-    align-items: center;
-    justify-content: center;
-}
+    justify-content: space-between;
+    }
